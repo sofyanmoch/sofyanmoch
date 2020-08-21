@@ -24,10 +24,16 @@
 
 Hi, I'm Mochamad Sofyan, a Fullstack Developer 🚀 from Tegal, currently, I'm a Bootcamp Talent at [Arkademy](https://arkademy.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Pro Evolution Soccer for Personal Computer.
 
+✔️ I'm currently learning
+- MongoDB
+- ExpressJS
+- VueJS
+- NodeJS
+- ReactJS
+
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning MEVN Stack ; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: mchsfyan17@gmail.com;
