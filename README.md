@@ -28,7 +28,7 @@ Hi, I'm Mochamad Sofyan, a Fullstack Developer (soon) 🚀 from Tegal, currently
 - ExpressJS
 - VueJS
 - NodeJS
-- ReactJS
+
 
 💡 Goals for 2020
 - Complete Arkademy Bootcamp
