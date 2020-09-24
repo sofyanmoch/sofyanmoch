@@ -22,7 +22,7 @@
 <br />
 <br />
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
-Hi, I'm Mochamad Sofyan, currently, I'm a Bootcamp Talent at [Arkademy](https://arkademy.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer.
+Hi, I'm Mochamad Sofyan, currently, I'm a Bootcamp Talent at [Arkademy] (https://arkademy.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer.
 
 ✔️ I'm currently learning
 - ExpressJS
