@@ -22,8 +22,6 @@
 
 <br />
 <br />
-
-![sofyanmoch github stats](https://github-readme-stats.vercel.app/api?username=sofyanmoch&show_icons=true&theme=radical)
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
 Hi, I'm Mochamad Sofyan, currently, I'm a Bootcamp Talent at Arkademy
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
@@ -56,6 +54,11 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Bootcamp Talent at Arkademy
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+![sofyanmoch github stats](https://github-readme-stats.vercel.app/api?username=sofyanmoch&show_icons=true&theme=synthwave)
+
+
 
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
