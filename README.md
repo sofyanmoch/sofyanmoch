@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Sofyan!](https://github.com/sofyanmoch) 
-
+<!--
 <a href="https://twitter.com/mochsofyan17">
   <img align="left" alt="Mochamad Sofyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,6 +18,7 @@
 <a href="https://www.instagram.com/moch.sof17">
   <img align="left" alt="Mochamad Sofyan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyanmoch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
