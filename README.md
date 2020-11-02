@@ -19,6 +19,8 @@
   <img align="left" alt="Mochamad Sofyan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+Top Language 
+![sofyanmoch github stats](https://github-readme-stats.vercel.app/api?username=sofyanmoch&show_icons=true&theme=radical)
 <br />
 <br />
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
