@@ -28,14 +28,14 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Bootcamp Talent at Arkademy
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
 ✔️ I'm currently learning
-- ExpressJS
-- VueJS
-- NodeJS
+- Typescript
+- ReactJS + NextJS
+- NestJS
 
 
 💡 Goals for 2020
-- Complete Arkademy Bootcamp
 - be A Fullstack Javascript
+- passed Probation
 
 
 **Talking about Personal Stuffs:**
