@@ -24,16 +24,18 @@
 <br />
 <br />
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
-Hi, I'm Mochamad Sofyan, currently, I'm a Bootcamp Talent at Arkademy
+Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
 ✔️ I'm currently learning
 - Typescript
 - ReactJS + NextJS
 - NestJS
+- AngularJS
+- React Native
 
 
-💡 Goals for 2020
+💡 Goals for 2021
 - be A Fullstack Javascript
 - passed Probation
 
