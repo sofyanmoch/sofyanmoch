@@ -37,7 +37,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo
 
 💡 Goals for 2021
 - be A Fullstack Javascript
-- passed Probation
+- passed Probation [Done]
 
 
 **Talking about Personal Stuffs:**
