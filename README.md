@@ -29,14 +29,12 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo
 
 ✔️ I'm currently learning
 - Typescript
-- ReactJS + NextJS
 - NestJS
-- AngularJS
 - React Native
 
 
 💡 Goals for 2021
-- be A Fullstack Javascript
+- be A Magic Fullstack Javascript
 - passed Probation [Done]
 
 
@@ -44,7 +42,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo
 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: mchsfyan17@gmail.com;
+- 📫 How to reach me: halo@sofyanmoch.me;
 <!-- 📝[Resume](https://vaporjawn.github.io/Resume.html)-->
 
 **Languages and Tools:**  
