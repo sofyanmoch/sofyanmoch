@@ -24,7 +24,7 @@
 <br />
 <br />
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
-Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo
+Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo and Freelancer at Upwork.
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
 ✔️ I'm currently learning
