@@ -42,7 +42,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo and Free
 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: halo@sofyanmoch.me;
+- 📫 How to reach me: sofyanmoch@sgbteam.id;
 <!-- 📝[Resume](https://vaporjawn.github.io/Resume.html)-->
 
 **Languages and Tools:**  
