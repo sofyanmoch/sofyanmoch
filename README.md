@@ -29,12 +29,12 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo and Free
 
 ✔️ I'm currently learning
 - Typescript
-- NestJS
-- React Native
+- ReactJS
 
 
 💡 Goals for 2021
 - be A Magic Fullstack Javascript
+- first $100 in Upwork.com
 - passed Probation [Done]
 
 
