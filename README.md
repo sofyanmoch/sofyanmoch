@@ -34,7 +34,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer at Clodeo and Free
 
 💡 Goals for 2021
 - be A Magic Fullstack Javascript
-- first $100 in Upwork.com
+- reach first $100 in Upwork.com
 - passed Probation [Done]
 
 
