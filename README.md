@@ -1,9 +1,9 @@
 ### Hey 👋 🏽, I'm [Sofyan!](https://github.com/sofyanmoch) 
 
 
-# Visitor
+#### Visitor
  <br>
-  <p align="center">
+  <p align="left">
   <img src="https://profile-counter.glitch.me/sofyanmoch/count.svg" />
   </p>
 <!--
