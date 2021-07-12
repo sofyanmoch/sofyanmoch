@@ -37,6 +37,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Frontend Developer and Freelancer at U
 ✔️ I'm currently learning
 - Typescript
 - ReactJS
+- React Native
 
 
 💡 Goals for 2021
