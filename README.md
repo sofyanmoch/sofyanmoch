@@ -38,11 +38,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Frontend Developer and Freelancer at U
 - Typescript
 - ReactJS
 - React Native
-
-
-💡 Goals for 2021
-- be A Magic Fullstack Javascript
-- passed Probation [Done]
+- NestJs
 
 
 **Talking about Personal Stuffs:**
