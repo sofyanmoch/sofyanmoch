@@ -31,7 +31,7 @@
 <br />
 <br />
 <!-- a Fullstack Developer (soon) 🚀 from Tegal, -->
-Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack Developer.
+Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack JS Developer.
 <!--I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Playing Pro Evolution Soccer in my Personal Computer. -->
 
 ✔️ I'm currently learning
