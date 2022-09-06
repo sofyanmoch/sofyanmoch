@@ -36,7 +36,6 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Fullstack JS Developer.
 
 ✔️ I'm currently learning
 - Typescript
-
 - React Native
 - NestJs
 
