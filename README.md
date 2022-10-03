@@ -45,6 +45,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Frontend Web Developer.
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: sofyanmoch@sgbteam.id;
+- Linkedin : https://www.linkedin.com/in/sofyanmoch/
 <!-- 📝[Resume](https://vaporjawn.github.io/Resume.html)-->
 
 **Languages and Tools:**  
