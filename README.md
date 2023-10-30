@@ -36,7 +36,6 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Frontend Web Developer.
 
 ✔️ I'm currently learning
 - Typescript
-- React Native
 - NestJs
 
 
@@ -44,7 +43,7 @@ Hi, I'm Mochamad Sofyan, currently, I'm a Frontend Web Developer.
 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: sofyanmoch@sgbteam.id;
+- 📫 How to reach me: mochsofyannn@gmail.com;
 - Linkedin : https://www.linkedin.com/in/sofyanmoch/
 <!-- 📝[Resume](https://vaporjawn.github.io/Resume.html)-->
 
